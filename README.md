@@ -14,6 +14,11 @@ Cloudinary Studio gives users the ability to **upload, transform, optimize, and 
 **Try it here:**  
 👉 https://cloudinarystudio.vercel.app/
 
+Demo Gif:
+<p align="center">
+  <img src="cloudinary-saas.gif" alt="Cloudinary Studio Demo" width="900" height="550"/>
+</p>
+
 ---
 
 ## 🚀 Features
